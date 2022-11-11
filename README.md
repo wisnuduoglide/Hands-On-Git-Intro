@@ -24,5 +24,8 @@
 - Setelah itu push kembali ke repository kalian
 - Pull request kedalam repository GDSC yang sudah anda fork tadi
 
-## Batas Waktu
+## Deliverable
+- Kumpulkan link github fork repository dan link pull request kalian ke [sini](https://docs.google.com/forms/d/1hPBeuFDcOtk1M_8ZTvDqKhR9OoHG-Vy8grvgqlx40pk/viewform?edit_requested=true)
+
+## Deadline
 - Jumat, 18 November 2022, pukul 23.59

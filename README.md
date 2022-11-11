@@ -20,9 +20,10 @@
 - Masukkan file markdown dan program kedalam folder tersebut
 - Add folder tersebut ke dalam staging
 - Letakkan folder tersebut sejajar dengan file README.md
-- Lalu commit dengan pesan "First submission by < Nama kalian > "
+- Lalu commit dengan pesan "First submission by < Nama kalian >"
 - Setelah itu push kembali ke repository kalian
 - Pull request kedalam repository GDSC yang sudah anda fork tadi
+- Isi judul pull request dengan "First submission by < Nama kalian >"
 
 ## Deliverable
 - Kumpulkan link github fork repository dan link pull request kalian ke [sini](https://docs.google.com/forms/d/1hPBeuFDcOtk1M_8ZTvDqKhR9OoHG-Vy8grvgqlx40pk/viewform?edit_requested=true)

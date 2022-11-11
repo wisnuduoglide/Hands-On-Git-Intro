@@ -12,6 +12,7 @@
   ```
   Nama : <Nama> 
   Jurusan : <Jurusan>
+  Universitas : <Universitas>
   Alasan ingin masuk GDSC : <Alasan>
   ```
 - Setelah itu Screenshot hasil output yang dikeluarkan dan masukkan gambar Screenshot tersebut kedalam file markdown bernama Identitas.md
@@ -23,3 +24,5 @@
 - Setelah itu push kembali ke repository kalian
 - Pull request kedalam repository GDSC yang sudah anda fork tadi
 
+## Batas Waktu
+- Jumat, 18 November 2022, pukul 23.59
